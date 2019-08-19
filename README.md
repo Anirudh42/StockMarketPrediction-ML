@@ -8,4 +8,4 @@ This project is aimed at analysing various machine learning algorithms to predic
 - Support Vector Machines(SVM)
 - Linear Regression
 
-![Prediction Results](https://drive.google.com/open?id=1PRgRknikOBUzJDGyi9nihcpg9LkJx-VE)
+![These were the predicted trends of various algorithms](https://raw.githubusercontent.com/Anirudh42/StockMarketPrediction-ML/master/preds.jpg)
