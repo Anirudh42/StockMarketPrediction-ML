@@ -1,5 +1,5 @@
 # StockMarketPrediction-ML
-This project is aimed at analysing various machine learning algorithms to predict the trend of stock market closing prices based on past historical data. A detailed report of the analyssi can be found in the repository.
+This project seeks to analyse various machine learning algorithms that predict the trend of stock market closing prices based on past historical data. A detailed report of the analysis can be found in the repository.
 
 ## The algorithms analysed were as follows:
 - Neural Networks
